@@ -56,7 +56,7 @@ PyNeuroscan_NetStream/
 ```bash
 python -m acq_curry8.main
 ```
-！[gui](imgs/acq_eeg.png)
+！[gui]<img src="/imgs/acq_eeg.png">
 ### 启动 Curry 9 数据接收
 
 ```bash
@@ -68,7 +68,8 @@ python -m acq_curry9.main
 ```bash
 python NeuroScanSim_Curry8/main.py
 ```
-！[gui](imgs/sys_sim.png)
+
+！[gui]<img src="/imgs/sys_sim.png">
 ### 启动 Curry 9 仿真器
 
 ```bash
